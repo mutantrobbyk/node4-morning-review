@@ -2,6 +2,7 @@
   "name": "auth_morning_review",
   "version": "0.1.0",
   "private": true,
+  "main": "server/index.js",
   "proxy": "http://localhost:3999",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
